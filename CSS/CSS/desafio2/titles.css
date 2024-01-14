@@ -1,0 +1,15 @@
+h1{
+    font-size: 20px;
+    color: darkgreen;
+    border-bottom: 3px solid purple;
+}
+
+p{
+    font-style: italic;
+    color: black;
+}
+
+h4{
+    color: darkslateblue;
+    border-bottom: 3px solid gold;
+}

@@ -1,0 +1,71 @@
+/* 4 - External */
+body{
+    padding-bottom: 500px;
+}
+h3{
+    color: green;
+    font-size: 20px;
+}
+/* classes */
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+/* IDs */
+#exclusive-title{
+    background-color: purple;
+    color: gold;
+    padding: 10px;
+}
+h2{
+    border-bottom: 2px solid red;
+}
+
+.titulo{
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo{
+    border-bottom: 5px solid green;
+    color:blueviolet ;
+}
+
+/* Nome de cores */
+.color-name{
+    color: lightgreen;
+}
+
+/* HEX*/
+.hex{
+    color: #26a4e7;
+}
+.hex2{
+    color: #3e9a44;
+}
+
+/* aprofundando HEX */
+.simple-hex{
+    color: #069;
+}
+
+/* RGB */
+.rgb{
+    color:rgb(255, 0, 0)
+}
+.mixed-rgb{
+    color: rgb(155, 27, 44);
+}
+
+/* RGBA */
+.rgba{
+    color:rgba(255, 100, 34, 0.3) ;
+}
+
+/* HSL */
+.hsl{
+    color: hsl(255, 50%, 40%);
+}
+.hsl2{
+    color: hsl(150, 70%, 80%);
+}
