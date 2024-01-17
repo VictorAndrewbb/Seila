@@ -69,3 +69,25 @@ h2{
 .hsl2{
     color: hsl(150, 70%, 80%);
 }
+
+/* Background */
+.bg{
+    background-color: #000;
+    color: yellow;
+}
+.bg2{
+    background-color: rgb(200,30,85);
+    color: green;
+}
+
+/* Opacidade no BG */
+.bg-opacity{
+    background-color:rgb(138, 43, 226,) ;
+    color: #000;
+}
+
+.bg-opacity-2{
+    background-color:#999 ;
+    color: #000;
+    opacity: 0.8;
+}
