@@ -91,3 +91,19 @@ h2{
     color: #000;
     opacity: 0.8;
 }
+/* BG Image */
+.singed{
+    background-image:url(./img/images.jpg);
+    padding: 10px;
+    color: #FFF;
+}
+.not-centered-br,
+.centered-bg{
+    height: 400px;
+    width: 400px;
+    background-image: url(./img/images.jpg);
+}
+.centered-bg{
+    background-position: center;
+    background-size: cover;
+}
