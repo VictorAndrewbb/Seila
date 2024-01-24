@@ -174,3 +174,31 @@ h2{
     border: 2px dotted #931;
     padding: 25px;
 }
+
+/* Border individual */
+.border-left {
+    border-left: 3px solid red ;
+    background-color: #000;
+    padding: 25px;
+    color: #FFF;
+}
+.border-bottom {
+    border-bottom: 5px solid #3e9a44;
+    border-left: 5px solid #3e9a44;
+    background-color: cornflowerblue;
+    padding: 25px;
+}
+
+/* Borda arredondada */
+.rounded-p{
+border: 5px solid purple;
+background-color: #000;
+color: #FFF;
+border-radius: 15px;
+}
+.rounded-p-2{
+    border: 5px solid purple;
+background-color: #000;
+color: #FFF;
+border-radius: 50px;
+}
