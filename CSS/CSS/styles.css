@@ -230,3 +230,42 @@ border: 3px solid #589;
 width: 200px;
 height: 100px;
 }
+
+/* Alinhamento de texto */
+.alinhado{
+    text-align: center;
+    background-color: #3e9a44;
+    color: #FFF;
+}
+.card{
+    text-align: center;
+    color: yellow;
+    background-color:red;
+    width: 400px;
+    border: #000 solid 5px;
+}
+
+/* Estilizando os textos */
+.underline{
+    text-decoration: underline;
+}
+.riscado{
+    text-decoration: line-through;
+}
+.sem-underline{
+    text-decoration: none;
+}
+
+/* Text transform */
+.uper{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
+
+/* letter spacing */
+.spacing{
+    letter-spacing: 10px;
+    
+}
